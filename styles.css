@@ -1,0 +1,273 @@
+.card{
+    
+}
+
+.mat-card{
+    border-radius: 32px;
+    border-color: #5c5e98;
+    padding: 10px;
+
+
+}
+
+#primera-carta{
+ 
+ padding: 0px;  
+   
+}
+
+
+
+#banner{
+    display: flex;
+  
+}
+
+#align{
+    text-align: center;
+    align-items: center;
+}
+
+#banner img{
+    border-radius: 32px 32px 0 0;
+    width: 100;
+    
+}
+
+.columna-1{
+    margin-right:-100px;
+}
+
+.btn{
+    border-radius:32px 32px 32px 32px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right:5px;
+    z-index: 1;
+    margin-top: 10px;
+}
+
+
+#img{
+    margin-top: -120px;
+    z-index: 1;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+    
+}
+    
+
+
+.img-facebook {
+    width:50px;
+    height:50px;
+}
+
+.card-title{
+    margin-top:15px;
+}
+
+#card-text{
+    padding-top: 20px;
+    font-family: Montserrat,sans-serif;
+    font-size: 5px;
+}
+
+#card-text-acerca{
+    margin-top:10px;
+    padding-left: 8px;
+}
+
+#btn-left{
+    margin-left:200px;
+    margin-top: -20px;
+
+}   
+
+#btn-edit-acerca{
+    padding-left:1px;
+    margin-top: -40px;
+    display: flex;
+} 
+
+#btn-left1{
+    padding-left:10px;
+    margin-top: -50px;
+   
+}
+
+#titulo{
+    font-family:Montserrat,sans-serif;
+    font-size:25px;
+    font-weight:bold;
+    
+}
+
+#info-perfil{
+    font-family: Montserrat,sans-serif;
+
+}
+
+#info-contacto{
+    font-family: Montserrat,sans-serif;
+    font-size: 15px;
+}
+    
+    
+
+
+#acerca{
+    font-family: Montserrat,sans-serif;
+    font-size: 25px;
+    margin: 20px 20px;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    
+}
+
+#acerca-de{
+    font-size: 18px;
+    font-family: Montserrat,sans-serif;
+    margin-top:25px;
+    vertical-align: center;
+    text-align: center;
+    align-items: center; 
+
+
+    
+    
+}
+
+    
+
+    
+
+#segunda-carta{
+    margin: 10px 0px 10px 0px;
+    display: flex;
+    
+     
+}
+
+#experiencia{
+    font-family: Montserrat,sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left:px;
+    text-align: center;
+
+}
+
+#img-experiencia{
+    margin-top:-5px;
+    padding-left: 30px;
+    padding-right:20px;
+    align-items: center;
+    text-align: center;
+}
+
+
+#img-educacion{
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right:20px;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+#Quilhash{
+    margin-top:-15px;
+    font-family: Montserrat,sans-serif;
+    font-size:20px;
+    text-align: center;
+
+}
+
+#Codeacademy{
+    margin-top:10px;
+    font-family: Montserrat,sans-serif;
+    font-size:20px;
+    text-align: center;
+}
+
+#texto-experienciaid{
+    font-family: Montserrat,sans-serif;
+    color: rgb(64, 94, 124);
+    margin-top:5px;
+    padding-left:45px;
+    padding-right:45px;
+    text-align: center;
+
+
+}
+
+.texto-experiencia{
+    font-family: Montserrat,sans-serif;
+    font-size: 18px;
+    margin-top:-30px;
+    padding-left:10px;
+    text-align: center;
+}
+
+#texto-descripcion{
+    font-family: Montserrat,sans-serif;
+    margin-top: 5px;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+#tercera-carta{
+    margin: 10px 0px 10px 0px;
+}
+
+#btn-edit-experiencia{
+    margin-left: 15em;
+    margin-top: 1px;
+}
+
+.educación{
+    font-family: Montserrat,sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left:20px;
+    
+}
+#cuarta-carta{
+    margin: 10px 0px 10px 0px; 
+}
+
+.hardsoftskills{
+    font-family: Montserrat,sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left:20px;
+    
+}
+
+
+
+.progress{
+    padding:0px;
+    margin: 40px;
+}
+
+
+#img-hard{
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right:20px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#progress-1{
+    background-color:rgb(64, 94, 124);
+}
+
